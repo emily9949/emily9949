@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋
+
+<p align="center">
+  <img width="70%" src = "https://github.com/user-attachments/assets/033c8962-e95e-46ff-924e-8ac3301f4bfd">
+</p>
 
 <!--
 **emily9949/emily9949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
