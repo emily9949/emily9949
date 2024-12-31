@@ -3,7 +3,7 @@
 <p align="center">
   <img width="700px" src = "https://github.com/user-attachments/assets/033c8962-e95e-46ff-924e-8ac3301f4bfd">
 </p>
-<h4 align="center">성장하는 백엔드 개발자 🌱</h4>
+<h4 align="center"> 성장하는 백엔드 개발자 🌱</h4>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
