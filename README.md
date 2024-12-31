@@ -17,3 +17,4 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
 </div>
+<h4 align="center">성장하는 백엔드 개발자 🌱</h4>
